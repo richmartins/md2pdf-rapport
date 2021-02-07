@@ -10,6 +10,12 @@ include-before:
     - '\let\oldtoc\tableofcontents'
     - '\renewcommand{\tableofcontents}{\oldtoc\newpage}'
     - '`\newpage{}`{=latex}'
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhead[L]{author name}
+    \fancyhead[R]{header text}
+    \fancyfoot[R]{footer text}
 ---
 
 \newpage
