@@ -2,7 +2,7 @@
 
 This a template for a pretty conversion of a markdown written documentation to pdf on `MacOS`.
 
-All the knowledges comes from [here](https://pandoc.org/MANUAL.html#templates) and the insparation comes from [here](https://github.com/ponsfrilus/kata-manga)
+All the knowledges comes from [here](https://pandoc.org/MANUAL.html#templates) and the inspiration comes from [here](https://github.com/ponsfrilus/kata-manga)
 
 # Dependencies
 
