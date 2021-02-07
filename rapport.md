@@ -13,9 +13,9 @@ include-before:
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
-    \fancyhead[L]{author name}
-    \fancyhead[R]{header text}
-    \fancyfoot[R]{footer text}
+    \fancyhead[R]{author name}
+    \fancyhead[L]{header text}
+    \fancyfoot[L]{footer text}
 ---
 
 \newpage
